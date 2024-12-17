@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "name": "Электрогитара",
+      "description": "Это описание товара. \n Очень длинное прям очень очень очень очень очень очень\n очень очень очень очень очень очень очень очень очень очень очень очень очень очень ",
+      "category": "Электрогитары",
+      "quantity": 3,
+      "measure": "шт",
+      "image": "./dataPictures/guitar1.webp"
+    },
+    {
+      "id": 2,
+      "name": "Гитара классическая CB SKY",
+      "description": "Классическая 6-струнная гитара.",
+      "category": "Классические гитары",
+      "quantity": 10,
+      "measure": "шт",
+      "image": "./dataPictures/guitar2.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Пианино цифровое",
+      "description": "Описание товара каоке-то",
+      "category": "Пианино",
+      "quantity": 10,
+      "measure": "шт",
+      "image": ""
+    },
+    {
+      "id": 4,
+      "name": "Детская гитара",
+      "description": "Описание товара 4",
+      "category": "Гитары для кайфа",
+      "quantity": 10,
+      "measure": "шт",
+      "image": "./dataPictures/guitar3.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Продукт 5",
+      "description": "Описание товара 5",
+      "category": "Категория 1",
+      "quantity": 10,
+      "measure": "шт",
+      "image": ""
+    },
+    {
+      "id": 6,
+      "name": "Продукт 6",
+      "description": "Описание товара 6",
+      "category": "Категория 1",
+      "quantity": 10,
+      "measure": "шт",
+      "image": ""
+    },
+    {
+      "id": 7,
+      "name": "Продукт 7",
+      "description": "Описание товара 7",
+      "category": "Категория 1",
+      "quantity": 10,
+      "measure": "шт",
+      "image": ""
+    }
+  ]
